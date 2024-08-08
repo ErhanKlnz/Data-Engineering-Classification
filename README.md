@@ -9,6 +9,9 @@ The project serves as an instructional exercise, demonstrating how different alg
 For example, the Support Vector Classifier (SVC) model was observed to achieve a higher accuracy rate compared to other models, indicating that SVC might be more appropriate for this particular dataset. However, because each model has its own strengths and limitations, the project evaluates not only accuracy scores but also factors such as computation time, model complexity, and ease of application.
 
 This type of project provides valuable experience in testing machine learning models on real-world data and analyzing their performance. It also helps students or data scientists develop a deeper understanding of when and how to use different algorithms in machine learning projects and enhances their skills in optimizing these models
+
+
+
 --------------------------------------------------------------------
 Bu proje, makine öğrenimi alanında farklı sınıflandırma algoritmalarını denemek ve karşılaştırmak amacıyla yapılmıştır. Amacınız, çeşitli makine öğrenimi modellerini bir veri seti üzerinde eğitmek, optimize etmek ve bu modellerin performansını test ederek en iyi sonuç veren modeli belirlemektir.
 
